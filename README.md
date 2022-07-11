@@ -12,5 +12,5 @@ Novichu 的 Github 是怎么会事呢？
 ## 当前专注
 
 <p>
-<a align="left"  width = "600" href="https://github.com/Novichu/KaiBaiWife"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Novichu&repo=KaiBaiWife&bg_color=00000010&text_color=c78944" /></a>
+<a style="width: 480px;" href="https://github.com/Novichu/KaiBaiWife"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Novichu&repo=KaiBaiWife&bg_color=00000010&text_color=c78944" /></a>
 </p>
